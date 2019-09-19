@@ -1,1 +1,0 @@
-{"name":"googlemap-next-reacthook-20190920","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next"},"keywords":[],"author":"","license":"ISC","dependencies":{"axios":"^0.19.0","google-map-react":"^1.1.4","next":"^9.0.6","react":"^16.9.0","react-dom":"^16.9.0"},"readme":"ERROR: No README data found!","_id":"googlemap-next-reacthook-20190920@1.0.0"}
