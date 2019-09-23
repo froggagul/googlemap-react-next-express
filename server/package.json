@@ -2,8 +2,12 @@
   "name": "googlemap-20190821",
   "version": "1.0.0",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "ejs": "~2.4.1",
     "express": "~4.13.1"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
